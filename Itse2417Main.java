@@ -58,7 +58,7 @@ public class Itse2417Main
             new FinalProj(),          // Rascon
             new FinalProj(),          // Rodriguez
             new FinalProj(),          // Subba
-            new FinalProj(),          // Terrell
+            new Terrell(),            // Terrell
             new FinalProj(),          // Willis Hall
             new SmileyMenu()          // Smiley
                                                     ));
